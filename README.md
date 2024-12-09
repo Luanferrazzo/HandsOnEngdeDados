@@ -22,7 +22,7 @@ O público-alvo inclui:
 -	Consumidores finais: Pessoas físicas que compram produtos de escritório para home office, estudo ou uso pessoal.
 
 ## Existe viabilidade técnica?
-Sim, existe viabilidade técnica. Utilizando serviços da AWS, *Descrever escolhas feitas pelo time de arquitetura*, podemos construir um pipeline eficiente e escalável. Além disso, utilizando AWS Lambda para processamento serverless, garantimos uma arquitetura flexível e robusta.
+Sim, existe viabilidade técnica. Utilizando serviços da AWS, podemos construir um pipeline eficiente e escalável. Além disso, utilizando AWS Lambda para processamento serverless, garantimos uma arquitetura flexível e robusta.
 
 ## Descrição do Pitch
 Nosso projeto tem como objetivo transformar a maneira como a empresa de produtos de escritório toma decisões de negócios, através da implementação de um pipeline de dados completo. Com o uso de tecnologias AWS, vamos coletar, processar e visualizar dados de vendas de forma eficiente. Isso permitirá à empresa identificar tendências de vendas, otimizar estoques e melhorar a experiência do cliente. Nosso foco é criar dashboards interativos que forneçam insights acionáveis, ajudando a empresa a alcançar novos níveis de eficiência e sucesso no mercado.
