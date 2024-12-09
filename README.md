@@ -16,10 +16,9 @@ O mercado proposto é o de vendas de produtos de tech. Esse é um mercado que at
 ## Qual problema estamos resolvendo?
 O problema que estamos resolvendo é a falta de visibilidade e análise eficiente sobre as vendas dos produtos. Com um pipeline de dados e dashboards, podemos fornecer insights valiosos sobre quais produtos estão performando melhor, identificar tendências de vendas, otimizar estoques, e melhorar a tomada de decisões baseadas em dados concretos.
 
-## Qual público-alvo? __(Validar se a resposta é para o publico alvo da soução do problema ou publico alvo dos produtos da empresa)__
+## Qual público-alvo?
 O público-alvo inclui:
--	Empresas: Pequenas, médias e grandes empresas que necessitam de equipamentos de escritório para suas operações diárias.
--	Consumidores finais: Pessoas físicas que compram produtos de escritório para home office, estudo ou uso pessoal.
+- Varejo de comercio eletronico
 
 ## Existe viabilidade técnica?
 Sim, existe viabilidade técnica. Utilizando serviços da AWS, podemos construir um pipeline eficiente e escalável. Além disso, utilizando AWS Lambda para processamento serverless, garantimos uma arquitetura flexível e robusta.
