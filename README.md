@@ -18,7 +18,7 @@ O problema que estamos resolvendo é a falta de visibilidade e análise eficient
 
 ## Qual público-alvo?
 O público-alvo inclui:
-- Varejo de comercio eletronico
+Varejo de comercio eletronico
 
 ## Existe viabilidade técnica?
 Sim, existe viabilidade técnica. Utilizando serviços da AWS, podemos construir um pipeline eficiente e escalável. Além disso, utilizando AWS Lambda para processamento serverless, garantimos uma arquitetura flexível e robusta.
