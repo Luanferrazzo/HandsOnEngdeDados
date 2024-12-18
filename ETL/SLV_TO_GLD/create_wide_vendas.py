@@ -7,7 +7,7 @@ from awsglue.job import Job
 from awsglue.dynamicframe import DynamicFrame
 from pyspark.sql.types import DecimalType
 from pyspark.sql.functions import regexp_replace, col, format_string
-from pyspark.sql.types import StructType, StructField, IntegerType, StringType, DateType, DecimalType
+from pyspark.sql.types import StructType, StructField, IntegerType, StringType, DateType, DecimalType, FloatType
 from pyspark.sql import SparkSession
 
 # Inicializar a SparkSession
@@ -25,7 +25,7 @@ schema = StructType([
     StructField("id_produto", IntegerType(), True),
     StructField("dt_venda", DateType(), True),
     StructField("produto", StringType(), True),
-    StructField("valor", DecimalType(10, 2), True)  # Decimal com precisão 10 e escala 2
+    StructField("valor", FloatType(), True)  
 ])
 
 # Criar DataFrame vazio com o esquema definido
