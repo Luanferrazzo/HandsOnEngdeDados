@@ -106,5 +106,6 @@ glueContext.write_dynamic_frame.from_catalog(
     
 )
 
+
 # Finalizar o trabalho
 job.commit()
