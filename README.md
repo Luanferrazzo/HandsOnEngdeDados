@@ -25,3 +25,8 @@ Sim, existe viabilidade técnica. Utilizando serviços da AWS, podemos construir
 
 ## Descrição do Pitch
 Nosso projeto tem como objetivo transformar a maneira como a empresa de produtos tech toma decisões de negócios, através da implementação de um pipeline de dados completo. Com o uso de tecnologias AWS, vamos coletar, processar e visualizar dados de vendas de forma eficiente. Isso permitirá à empresa identificar tendências de vendas, otimizar estoques e melhorar a experiência do cliente. Nosso foco é criar dashboards interativos que forneçam insights acionáveis, ajudando a empresa a alcançar novos níveis de eficiência e sucesso no mercado.
+
+## Participantes:
+- Augusto Batista – RA: 10444612
+- Daniela Alexandra – RA: 10444894
+- Luan Ferrazzo – RA: 10397276
